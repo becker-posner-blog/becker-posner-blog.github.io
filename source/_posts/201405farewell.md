@@ -1,0 +1,125 @@
+---
+title: Farewell
+date: 2014-05-10
+---
+In memoriam: Gary S. Becker, 1930-2014.
+
+The Becker-Posner blog is terminated.
+
+Richard A. Posner
+
+<span style="color:#999">Posted at 11:48 PM</span>
+
+<!-- more -->
+
+--- 
+
+### Comments
+
+---
+
+"Since Cuba no longer provides any significant threat to American interests, there is no sense in continuing to punish the Cuban people with an embargo on trade [...] It is time to end the embargo on the export and import of goods and services between the United States and Cuba The Cuban people will benefit almost immediately."
+The best way the US Government could honor Gary Becker would be by carrying out what he openly wished through his last post. I sincerely hope this happens.
+
+<span style="color:#999">Posted by: Gonzalo | 05/12/2014 at 09:27 AM</span>
+
+--- 
+
+John Cassidy republishes a 2010 interview he did to him in memorial:
+http://www.newyorker.com/online/blogs/johncassidy/2014/05/postscript-gary-becker-1930-2014.html
+
+<span style="color:#999">Posted by: Gonzalo | 05/12/2014 at 12:35 PM</span>
+
+---
+
+RIP
+
+Thank you both for everything you do and have done. I loved this blog and will miss it dearly. The world needs more people like the 2 of you.
+
+<span style="color:#999">Posted by: DESTRO | 05/14/2014 at 01:08 PM</span>
+
+---
+
+I live in Chile. I've read countless post from you both. It's refreshing to read well written articles, about the most important issues that affect us all, and hear sound opinions based on hard facts.
+
+I will miss you Becker. Keep the thinking, Posner.
+
+Thanks.
+
+<span style="color:#999">Posted by: Thomas Armstrong | 05/14/2014 at 02:54 PM</span>
+
+---
+
+I will miss you
+
+<span style="color:#999">Posted by: Gwang Min Kim | 05/14/2014 at 11:11 PM</span>
+
+---
+
+While I took only one course with Professor Becker, I'm very sad to receive this news. My deepest condolences go out to Judge Posner on the loss of his friend and colleague.
+
+<span style="color:#999">Posted by: El__Macho | 05/15/2014 at 01:53 PM</span>
+
+---
+
+RIP Prof Becker. I've been a big fan of this blog since I was introduced to it a couple years ago. Thanks for all commentary you guys have provided - it's helped greatly with my understanding of economics.
+
+<span style="color:#999">Posted by: Trevor Andersen | 05/15/2014 at 05:19 PM</span>
+
+---
+
+Great work by both of you. We'll miss your useful contribution to policy discussions. RIP, Gary Becker.
+
+<span style="color:#999">Posted by: Mark Wilson | 06/09/2014 at 07:25 AM</span>
+
+---
+
+RIP Professor Becker, the world has lost an incredibly unique and creative intellect.
+
+This blog and the honest, thoughtful and challenging perspectives of its authors are a significant contribution to our desire to better understand economics and human behaviour.
+
+I will greatly miss the quality of insights <span style="color:#999">Posted here throughout the years and hope that the website will continue to be hosted for future readers.
+
+<span style="color:#999">Posted by: Winston Ong | 06/21/2014 at 12:32 AM</span>
+
+---
+
+How I have dearly loved the writing in this Blog. Professor Becker was a luminary in the world of academia - we have lost a truly brilliant thinker. A charming, magical story -- how he met his wife. I look forward to holding a copy of the book containing the Blog articles. No words can know your grief Judge Posner.
+
+<span style="color:#999">Posted by: Sandra Schwab | 06/26/2014 at 06:03 PM</span>
+
+---
+
+Farewell!! May your words live forever.
+
+<span style="color:#999">Posted by: Larrymwalkerjr | 07/18/2014 at 06:14 PM</span>
+
+---
+
+Thank you both for everything you do and have done. I loved this blog and will miss it dearly. The world needs more people like the 2 of you
+
+<span style="color:#999">Posted by: bestmishu | 09/22/2014 at 02:24 AM</span>
+
+---
+
+Thank you both for everything you do and have done. I loved this blog and will miss it dearly. The world needs more people like the 2 of you
+
+<span style="color:#999">Posted by: bestmishu | 09/22/2014 at 02:25 AM</span>
+
+---
+
+May your Soul Rest in Peace. Your memory will always be fresh through your wise words.
+
+<span style="color:#999">Posted by: 1stpersonalinjuryattorneysandiego.wordpress.com | 09/23/2014 at 05:57 AM</span>
+
+---
+
+While I took only one course with Professor Becker, I'm very sad to receive this news. My deepest condolences go out to Judge Posner on the loss of his friend and colleague.好秘书
+
+<span style="color:#999">Posted by: bestmishu | 10/17/2014 at 07:46 PM</span>
+
+---
+
+I'm an avid reader of Professor Becker's blog. Thanks for everything sir. May you rest in peace. Your work will always be cherished worldwide.
+
+<span style="color:#999">Posted by: John Carter | 12/18/2014 at 12:06 AM</span>
