@@ -8,9 +8,9 @@ menu:
 subtitle: 'A Blog by Gary Becker and Richard Posner'
 
 # Content
-excerpt_link: Read More
+excerpt_link: Comments
 fancybox: true
-recent_posts_limits: 5
+recent_posts_limits: 10
 
 # Sidebar
 sidebar: right

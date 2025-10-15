@@ -340,7 +340,18 @@
               keys: []
             };
             for (var k = 0; k < current.posts.length; k++) {
-              var d = new Date(Date.parse(current.posts[k].date));
+              var dateStr = current.posts[k].date;
+              var [datePart, timePart] = dateStr.split('T');
+              var [dyy, dmm, ddd] = datePart.split('-');
+              var [dh, dm, ds] = timePart.split(':');
+              var d = new Date(
+                  parseInt(dyy),
+                  parseInt(dmm) - 1,
+                  parseInt(ddd),
+                  parseInt(dh),
+                  parseInt(dm),
+                  parseInt(ds.split('.')[0])  // removes the milliseconds and 'Z'
+              );
               if (d.getDate() == day) {
                 count.keys[count.num++] = k;
               }
@@ -348,7 +359,7 @@
 
             if (count.num !== 0) {
               var index = count.keys[0];
-              var cLink = $('<a>').attr('href', current.posts[index].link).attr('title', current.posts[index].title).html(day++);
+              var cLink = $('<a>').attr('href', current.posts[index].link.slice(1)).attr('title', current.posts[index].title).html(day++);
               cDay.append(cLink);
             } else {
               cDay.html(day++);

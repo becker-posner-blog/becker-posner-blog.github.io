@@ -1,6 +1,7 @@
 ---
-title: Sabbatical Notice
-date: 2014-03-14
+title: "Sabbatical Notice"
+date: 2014-03-14 21:05:00
+permalink: 2014/03/sabbatical-notice.html
 ---
 Starting this weekend, we will be taking a one-month sabbatical from blogging. We will resume at the end of that period.
 
@@ -8,7 +9,7 @@ Starting this weekend, we will be taking a one-month sabbatical from blogging. W
 
 <!-- more -->
 
---- 
+---
 
 ### Comments
 
@@ -20,7 +21,7 @@ RIP, Gary Becker.
 
 ---
 
-Yes, RIP, Prof Becker will be missed.
+Yes, RIP, Prof Becker will be missed. 
 
 Have you considered keeping the blog going? Perhaps with one, two, or more with diverse views?
 
