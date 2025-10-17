@@ -1,7 +1,7 @@
 ---
 title: "Union Power in the Obama Administration-Becker"
 date: 2009-09-27 14:22:00
-permalink: ttps://web.archive.org/web/20160211045316/http://www.becker-posner-blog.com:80/2009/09/union-power-in-the-obama-administration-becker.html
+permalink: 2009/09/union-power-in-the-obama-administration-becker.html
 ---
 The major American trade unions, including the United Automobile Workers, the United Steelworkers, and the Service Employees International Union, went all out in their support of Barack Obama during the past presidential election. They supplied money-said to exceed $400 million- and hundreds of thousands of volunteers working for Obama. It is believed they were important in his winning industrial states like Michigan, Wisconsin, Ohio, and Pennsylvania.
 Naturally, unions expect some payback after the resounding victory of Obama, as all interest groups do when the candidates they support win. Unions are behind the Employee Free Choice Act introduced in Congress early after Obama's election. That Act would make it much easier for unions to be certified to represent the employees of a company. The Act, still bogged down in a divided Congress, would allow for open rather than secret voting on whether a union should represent the employees, and would mandate arbitration over union-management contracts. Because of opposition from some Democrats as well as almost all Congressional Republicans, it is not yet clear how much the legislation that eventually emerges will shift union-management relations in favor of unions.

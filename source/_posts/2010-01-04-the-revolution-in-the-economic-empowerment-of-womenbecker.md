@@ -1,7 +1,7 @@
 ---
 title: "The Revolution in the Economic Empowerment of Women-Becker"
 date: 2010-01-04 10:40:00
-permalink: ttps://web.archive.org/web/20221017051454/http://www.becker-posner-blog.com/2010/01/the-revolution-in-the-economic-empowerment-of-women-becker.html
+permalink: 2010/01/the-revolution-in-the-economic-empowerment-of-women-becker.html
 ---
 The current issue of the Economist recognizes that the
 dramatic change in labor force participation of women is one of the most

@@ -1,7 +1,7 @@
 ---
 title: "How Much Should We Care About Government Deficits? Becker"
 date: 2009-09-15 16:00:00
-permalink: ttps://web.archive.org/web/20171227071204/http://www.becker-posner-blog.com:80/2009/09/how-much-should-we-care-about-government-deficits-becker.html
+permalink: 2009/09/how-much-should-we-care-about-government-deficits-becker.html
 ---
 Deficits arise when government spending exceeds the revenues raised from various taxes. Deficits add to the stock of government debt. In evaluating the consequences of deficits for an economy, it is first of all crucial to know whether the source of a larger deficit is greater government spending or reduced tax collections, possibly due to reductions in tax rates. The second issue is the burden to the economy of financing the interest payments due on the government debt. I take these issues up in turn.
 

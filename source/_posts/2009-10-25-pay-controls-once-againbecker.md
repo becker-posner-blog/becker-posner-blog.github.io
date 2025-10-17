@@ -1,7 +1,7 @@
 ---
 title: "Pay Controls Once Again-Becker"
 date: 2009-10-25 16:36:00
-permalink: ttps://web.archive.org/web/20160211052134/http://www.becker-posner-blog.com:80/2009/10/pay-controls-once-again-becker.html
+permalink: 2009/10/pay-controls-once-again-becker.html
 ---
 I sympathize with all the people who are upset by the very large bonuses, stock options, and other compensation received by heads of some financial institutions that ran their companies into the ground through bad investments. However, I also believe it is a big mistake to have a pay czar, Kenneth Feinberg, impose sharp cuts over the salaries and other compensation of the seven financial institutions, like Citibank, that received the most government bailout money. The Fed has made matters even worse by proposing to implement pay controls over thousands of banks as part of its regular  review of their performance.
 

@@ -1,7 +1,7 @@
 ---
 title: "The  Gulf Oil Leak—Posner"
 date: 2010-07-04 16:10:00
-permalink: ttps://web.archive.org/web/20230607031644/http://www.becker-posner-blog.com/2010/07/the-gulf-oil-leakposner.html
+permalink: 2010/07/the-gulf-oil-leakposner.html
 ---
 British
 Petroleum’s drilling accident in the Gulf of Mexico this past April is the

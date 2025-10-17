@@ -1,7 +1,7 @@
 ---
 title: "Pay Caps for Financial Executives--Posner"
 date: 2009-10-25 14:14:00
-permalink: ttps://web.archive.org/web/20160211045331/http://www.becker-posner-blog.com:80/2009/10/pay-caps-for-financial-executives--posner.html
+permalink: 2009/10/pay-caps-for-financial-executives--posner.html
 ---
 Limiting the compensation of a handful of employees at a handful of firms can't have any effect except to benefit the firms' competitors by making them more attractive places to work. The limitations are a form of scapegoating designed to appease public anger over the high incomes of financiers who precipitated an economic collapse that has caused widespread suffering, much of it to people who, unlike financiers, bumbling or inattentive government regulators, macroeconomists, members of Congress, and improvident homebuyers and home-equity borrowers, bear no share of blame for the collapse.
 

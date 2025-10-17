@@ -1,7 +1,7 @@
 ---
 title: "Warren Buffett on Taxing the Wealthy More Heavily—Posner"
 date: 2011-08-29 09:15:00
-permalink: ttps://web.archive.org/web/20230205033645/http://www.becker-posner-blog.com/2011/08/warren-buffett-on-taxing-the-wealthy-more-heavilyposner.html
+permalink: 2011/08/warren-buffett-on-taxing-the-wealthy-more-heavilyposner.html
 ---
 Two weeks ago Warren Buffett made waves with a brief op-ed piece in the New York Times of August 15 entitled “Stop Coddling the Super-Rich.” In it he says that very rich people are undertaxed, but he would leave the federal income tax rates of 99.7 percent of taxpayers unchanged and only raise the tax rates of taxpayers who report more than $1 million of taxable income a year; if they report at least $10 million a year they would pay an additional surcharge. But he doesn’t say what the increased tax rates on either group should be. He also wants dividends and capital gains taxed at the same rate as ordinary income but does not say whether he thinks the uniform tax rate should be the present income tax rate (except for those earning over $1 million a year and therefore liable for the lesser or greater surcharge) or perhaps a lower rate because it have a bigger base.
 

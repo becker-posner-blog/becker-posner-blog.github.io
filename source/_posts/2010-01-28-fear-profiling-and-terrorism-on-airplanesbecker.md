@@ -1,7 +1,7 @@
 ---
 title: "Fear, Profiling, and Terrorism on Airplanes-Becker"
 date: 2010-01-28 10:03:00
-permalink: ttps://web.archive.org/web/20160211045904/http://www.becker-posner-blog.com:80/2010/01/fear-profiling-and-terrorism-on-airplanes-becker.html
+permalink: 2010/01/fear-profiling-and-terrorism-on-airplanes-becker.html
 ---
 The purpose of terrorism, wherever it occurs, is to create
 fear that is disproportionate to the size of any terrorist risk. As Posner

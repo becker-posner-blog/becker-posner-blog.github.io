@@ -1,7 +1,7 @@
 ---
 title: "The Economics of Organizations--Posner"
 date: 2009-10-19 15:42:00
-permalink: ttps://web.archive.org/web/20170619115947/http://www.becker-posner-blog.com:80/2009/10/the-economics-of-organizations--posner.html
+permalink: 2009/10/the-economics-of-organizations--posner.html
 ---
 Oliver Williamson, an economist who won half a Nobel prize last week, has made important contributions to a field of economics that is not as well known as it should be: "organization economics." This is a field, closely related to a branch of sociology called organization theory, to which pioneering contributions were made by Alfred Chandler, Herbert Simon, and Ronald Coase, as well as Williamson; more recent contributors of note include Jacques Cr√©mer, Bengt Holstrom, Luis Garicano, Canice Prendergast, Jean Tirole, and others. I have used organization economics in my academic work on the structure of our national intelligence system; Garicano and I have published an organization-economic study of the FBI's domestic intelligence branch in the Journal of Economic Perspectives, and I have written a review essay on organization economics for a forthcoming issue of the Journal of Institutional Economics.
 

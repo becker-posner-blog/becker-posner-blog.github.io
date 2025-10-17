@@ -1,7 +1,7 @@
 ---
 title: "The Tariff on Chinese Tires--Posner's Comment"
 date: 2009-09-27 11:53:00
-permalink: ttps://web.archive.org/web/20160211045311/http://www.becker-posner-blog.com:80/2009/09/the-tariff-on-chinese-tires--posners-comment.html
+permalink: 2009/09/the-tariff-on-chinese-tires--posners-comment.html
 ---
 Becker is correct that the tariff appears to be a pay back to the unions for their strong support of Obama in the 2008 election. The significance of that support was amplified by a questionable feature of our political system. All but two states award all their electoral votes to the candidate who wins a plurality of the popular vote in the state. This makes winning, however narrowly, the popular vote in states that have a lot of electoral votes disproportionately important to a successful strategy for a presidential candidate, and in turn amplifies the effect of interest groups in those states. States in which unions, despite their modest fraction of the labor force overall, are electorally powerful include major swing states, such as Ohio.
 
