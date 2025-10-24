@@ -1,8 +1,69 @@
-<% if (site.posts.length){ %>
-  <div class="widget-wrap">
-    <h3 class="widget-title"><%= __('archive_a') %></h3>
-    <div class="widget">
-      <%- list_archives({show_count: theme.show_count, type: theme.archive_type}) %>
+<% if (is_archive()) { %>
+  <% if (site.posts.length){ %>
+    <div class="widget-wrap">
+      <h3 class="widget-title"><%= __('archive_a') %></h3>
+      <div class="widget">
+        <%- list_archives({show_count: theme.show_count, type: theme.archive_type}) %>
+      </div>
     </div>
-  </div>
+  <% } %>
+<% } else { %>
+  <% if (site.posts.length){ %>
+    <div class="widget-wrap">
+      <h3 class="widget-title"><%= __('archive_a') %></h3>
+      <div class="widget">
+        <%
+          // Get all posts sorted by date
+          const posts = site.posts.sort('date', -1);
+          const archiveData = [];
+          const maxItems = 10;
+          
+          // Group posts by month
+          posts.forEach(post => {
+            const year = post.date.year();
+            const month = post.date.month() + 1;
+            const key = `${year}-${month}`;
+            
+            let existing = archiveData.find(item => item.key === key);
+            if (!existing) {
+              existing = {
+                key: key,
+                year: year,
+                month: month,
+                name: post.date.format('MMMM YYYY'),
+                count: 0
+              };
+              archiveData.push(existing);
+            }
+            existing.count++;
+          });
+          
+          // Limit to first 10 items
+          const limitedData = archiveData.slice(0, maxItems);
+          const hasMore = archiveData.length > maxItems;
+        %>
+        
+        <ul class="archive-list">
+          <% limitedData.forEach(item => { %>
+            <li class="archive-list-item">
+              <a class="archive-list-link" href="<%= url_for(config.archive_dir + '/' + item.year + '/' + (item.month < 10 ? '0' : '') + item.month + '/') %>">
+                <%= item.name %>
+              </a>
+              <% if (theme.show_count) { %>
+                <span class="archive-list-count"><%= item.count %></span>
+              <% } %>
+            </li>
+          <% }); %>
+          
+          <% if (hasMore) { %>
+            <li class="archive-list-item">
+              <a class="archive-list-link" href="<%= url_for(config.archive_dir) %>">
+                More...
+              </a>
+            </li>
+          <% } %>
+        </ul>
+      </div>
+    </div>
+  <% } %>
 <% } %>
