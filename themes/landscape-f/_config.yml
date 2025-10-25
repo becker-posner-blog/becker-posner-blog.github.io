@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  中文: javascript:void(0)
 # rss: /atom.xml
 # github: https://github.com/becker-posner-blog
 # banner: "images/banner.jpg"
